@@ -1,4 +1,4 @@
-# Projeto academico:
+# Projeto acadêmico:
 
 ## 🎬 Sistema de Busca de Citações de Filmes em C
 
