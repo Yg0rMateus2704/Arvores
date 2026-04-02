@@ -11,3 +11,5 @@ Este sistema lê arquivos contendo citações de filmes, extrai palavras relevan
 🔍 Busca Binária (em vetor ordenado)
 🌳 Árvore Binária de Busca (BST)
 ⚖️ Árvore AVL (balanceada)
+
+Além disso, o sistema mede o tempo de execução de cada método, permitindo análise de desempenho.
