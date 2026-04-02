@@ -35,7 +35,10 @@ Digite a palavra a ser procurada(ex.: 'love')
 <img width="737" height="416" alt="cap03" src="https://github.com/user-attachments/assets/f3f1e174-966a-4096-9e53-c25d41bbeda1" />
 
 ## 
-Sera exbido as citações e informações do filme que contem tal palavra;
+4. Resultado da busca
+
+O sistema retorna: Palavra encontrada; Frequência; Citações associadas; Filme e ano
+
 
 <img width="855" height="496" alt="cap04" src="https://github.com/user-attachments/assets/74a7dab7-9956-4abc-a254-20507c6a016a" />
 
