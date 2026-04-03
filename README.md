@@ -8,8 +8,8 @@
 
 Este sistema lê arquivos contendo citações de filmes, extrai palavras relevantes e permite realizar buscas utilizando diferentes abordagens:
 
-🔍 Busca Binária (em vetor ordenado)
-🌳 Árvore Binária de Busca (BST)
+🔍 Busca Binária (em vetor ordenado)  
+🌳 Árvore Binária de Busca (BST)  
 ⚖️ Árvore AVL (balanceada)
 
 Além disso, o sistema mede o tempo de execução de cada método, permitindo análise de desempenho.
